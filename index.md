@@ -1,17 +1,12 @@
 ---
 title: Paste Special by Cole Doherty
 ---
+### What is Paste Special
+Within Excel copy and paste is a very helpful tool. Everybody knows ctrl+c is copy and ctrl+v is paste. Paste special allows the user to choose specific elements of a copied cell and perform mathematical operations with the copied data. Essentially if you have a spreadsheet of data with different formulas and you want to copy and paste those values to another part of the spreadsheet it will be incorrect. Paste Special allows for you to do this with no problems.
 
-You can use the [editor on GitHub](https://github.com/ColeDoh/AdvancedDataScience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Why is Paste Special useful
+When you have formulas within a spreadsheet, often times those values will have to be copied and put into another spot on the spreadsheet or an entirely different spreadsheet. Sometimes these cells may need the exact font size but not color. When you normally copy and paste something within excel it copies the exact same font size and color of the text. This may seem great but sometimes you dont want the same color, just the same font size. Paste special is magical when it comes to this. Paste special gives you the option of just copying the font size and not the color. This saves you valuable time. Along with font size and color, come mathematics and formulas. When you copy and paste values from a cell there is typically a formula associated with calculating that value. When you go to paste the values in another cell, they turn to the number 0. This is because these cells are looking at the wrong spots within the spreadsheet. The cells right next to where you copy and paste from dont have a formula associated with it. Paste special allows you to customize how you want to copy and paste. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
