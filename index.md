@@ -8,7 +8,15 @@ Within Excel copy and paste is a very helpful tool. Everybody knows ctrl+c is co
 When you have formulas within a spreadsheet, often times those values will have to be copied and put into another spot on the spreadsheet or an entirely different spreadsheet. Sometimes these cells may need the exact font size but not color. When you normally copy and paste something within excel it copies the exact same font size and color of the text. This may seem great but sometimes you dont want the same color, just the same font size. Paste special is magical when it comes to this. Paste special gives you the option of just copying the font size and not the color. This saves you valuable time. Along with font size and color, come mathematics and formulas. When you copy and paste values from a cell there is typically a formula associated with calculating that value. When you go to paste the values in another cell, they turn to the number 0. This is because these cells are looking at the wrong spots within the spreadsheet. The cells right next to where you copy and paste from dont have a formula associated with it. Paste special allows you to customize how you want to copy and paste. 
 
 
-# Header 1
+### Step by Step Process on How to Use Paste Special
+The very first step is to copy multiple cells from your data set with ctrl-c. Next you should navigate to the 
+
+
+
+
+
+
+
 ## Header 2
 ### Header 3
 
