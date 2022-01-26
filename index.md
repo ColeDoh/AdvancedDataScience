@@ -53,14 +53,17 @@ The last step is to hit ctrl-v into an open cell. The data will now appear horiz
 
 ### Try for yourself!
 
-Here is the [Dog Names](DogNamesDataSet.xlsx) set for you to practice using the tool with.
+- Here is the [Car Salesman](Salesman.xlsx) set for you to practice using the "values" tool with.
+- Here is the [Dog Names](DogNamesDataSet.xlsx) set for you to practice using the "transpose" tool with.
+- You can also try using any of the other tools within the Paste Special window.
+
 
 
 ### References
 
-https://www.kaggle.com/yamqwe/dog-names-over-timee
+- https://www.kaggle.com/yamqwe/dog-names-over-timee
 
-I created the first dataset by myself.
+- I created the first dataset by myself.
 
 
 
