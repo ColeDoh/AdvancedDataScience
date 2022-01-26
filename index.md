@@ -18,9 +18,11 @@ Once you click "Paste Special" this window will pop up with all of your options.
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685676383469649/PasteSpecials.JPG)
 
 ### Step 3:
-For this example I will select "values". Now once I hit "ok" the window will exit back to the spreadsheet. Now you do ctrl-v to paste into an empty cell. Now all of the values from the average column are now in a different column.
+For this example I will select "values". Now once I hit "ok" the window will exit back to the spreadsheet. 
 
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685678178660352/ValuesPasteSpecial.JPG)
+
+Now you do ctrl-v to paste into an empty cell. Now all of the values from the average column are now in a different column.
 
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685677117476885/Result.JPG)
 
