@@ -5,10 +5,10 @@ title: Paste Special by Cole Doherty
 Within Excel copy and paste is a very helpful tool. Everybody knows ctrl+c is copy and ctrl+v is paste. Paste special allows the user to choose specific elements of a copied cell and perform mathematical operations with the copied data. Essentially if you have a spreadsheet of data with different formulas and you want to copy and paste those values to another part of the spreadsheet it will be incorrect. Paste Special allows for you to do this with no problems.
 
 ### Why is Paste Special useful
-When you have formulas within a spreadsheet, often times those values will have to be copied and put into another spot on the spreadsheet or an entirely different spreadsheet.  Paste special is magical when it comes to this.  When you copy and paste values from a cell there is typically a formula associated with calculating that value. When you go to paste the values in another cell, they turn to the number 0. This is because these cells are looking at the wrong spots within the spreadsheet. The cells right next to where you copy and paste from dont have a formula associated with it. Paste special allows you to customize how you want to copy and paste. Anoither reason why people use paste special is for time management. The page link option within paste special allows for you to change data in one spreadsheet at the exact time in the other. This is perfect for creating two spreadsheets where you may want to edit one particular cell for both.
-
-### Step by Step Process on How to Use Paste Special
+When you have formulas within a spreadsheet, often times those values will have to be copied and put into another spot on the spreadsheet or an entirely different spreadsheet.  Paste special is magical when it comes to this.  When you copy and paste values from a cell there is typically a formula associated with calculating that value. When you go to paste the values in another cell, they turn to the number 0. This is because these cells are looking at the wrong spots within the spreadsheet. The cells right next to where you copy and paste from dont have a formula associated with it. Paste special allows you to customize how you want to copy and paste. Anoither reason why people use paste special is for time management and efficiency. The transpose tool within paste special is also very helpful because it puts data horizantally instead of vertically. This provides a different way to present the data.
+### Step 1:
 The very first step is to copy multiple cells from your data set with ctrl-c. Next you should navigate to the home tab on the ribbon and locate Paste Special.
+
 
 
 
