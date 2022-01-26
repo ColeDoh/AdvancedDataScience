@@ -53,9 +53,14 @@ The last step is to hit ctrl-v into an open cell. The data will now appear horiz
 
 ### Try for yourself!
 
+Here is the [Dog Names](https://stmaryscollegeofmd-my.sharepoint.com/:x:/r/personal/ctdoherty_smcm_edu/_layouts/15/Doc.aspx?sourcedoc=%7B04DB63E9-4C7F-4252-A8BE-AF86D5C8EF4A%7D&file=dognames.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1643168004988&wdOrigin=OFFICECOM-WEB.START.OTHER&cid=d16d7ba6-6caf-4ab3-81ef-4bc019391181) set for you to practice using the tool with.
 
 
 ### References
 
 https://www.kaggle.com/yamqwe/dog-names-over-timee
+
+I created the first dataset by myself.
+
+
 
