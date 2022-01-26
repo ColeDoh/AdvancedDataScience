@@ -36,6 +36,7 @@ Now that you have made it this far in the tutorial I will be showing you another
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685842435981332/dogset.JPG)
 
 Now I have selcted the column I want.
+
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685841798430820/Capture.JPG)
 
 ### Step 2:
