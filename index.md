@@ -61,7 +61,7 @@ The last step is to hit ctrl-v into an open cell. The data will now appear horiz
 
 ### References
 
-- https://www.kaggle.com/yamqwe/dog-names-over-timee
+- [](https://www.kaggle.com/yamqwe/dog-names-over-timee)
 - I created the first dataset by myself.
 
 
