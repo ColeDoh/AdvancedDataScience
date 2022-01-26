@@ -9,13 +9,19 @@ When you have formulas within a spreadsheet, often times those values will have 
 ### Step 1:
 The very first step is to copy multiple cells from your data set with ctrl-c. Next you should navigate to the home tab on the ribbon and locate Paste icon and click the small arrow. ctrl c-> Home-> arrow -> Paste Special
 ![](https://media.discordapp.net/attachments/899489276700557352/935685841995583528/CopyData.JPG)
+
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685676094074890/PasteSpecial.JPG)
+
 ### Step 2:
 Once you click "Paste Special" this window will pop up with all of your options.
+
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685676383469649/PasteSpecials.JPG)
+
 ### Step 3:
 For this example I will select "values". Now once I hit "ok" the window will exit back to the spreadsheet. Now you do ctrl-v to paste into an empty cell. Now all of the values from the average column are now in a different column.
+
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685678178660352/ValuesPasteSpecial.JPG)
+
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/935685677117476885/Result.JPG)
 
 
