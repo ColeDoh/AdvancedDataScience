@@ -53,12 +53,9 @@ The last step is to hit ctrl-v into an open cell. The data will now appear horiz
 
 ### Try for yourself!
 
-https://www.kaggle.com/yamqwe/dog-names-over-timee
+
 
 ### References
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ColeDoh/AdvancedDataScience/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://www.kaggle.com/yamqwe/dog-names-over-timee
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
