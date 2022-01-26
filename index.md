@@ -53,7 +53,7 @@ The last step is to hit ctrl-v into an open cell. The data will now appear horiz
 
 ### Try for yourself!
 
-Here is the [Dog Names](https://stmaryscollegeofmd-my.sharepoint.com/:x:/g/personal/ctdoherty_smcm_edu/Eelj2wR_TFJCqL6vhtXI70oBP8q1POgMNEQUZ1SgfirVkw?e=EVEaw3) set for you to practice using the tool with.
+Here is the [Dog Names](DogNamesDataSet.xlsx) set for you to practice using the tool with.
 
 
 ### References
